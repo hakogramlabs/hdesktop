@@ -1,6 +1,6 @@
-# [Hakogram Desktop][hakogram_desktop] – Official Messenger
+# [Hakogram Desktop][telegram_desktop] – Official Messenger
 
-This is the complete source code and the build instructions for the official [Hakogram][hakogram] messenger desktop client, based on the [Telegram API][telegram_api] and the [MTProto][telegram_proto] secure protocol.
+This is the complete source code and the build instructions for the official [Hakogram][telegram] messenger desktop client, based on the [Telegram API][telegram_api] and the [MTProto][telegram_proto] secure protocol.
 
 X86 version will be supported until 09.01.2026
 
